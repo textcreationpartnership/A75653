@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of agreement, for the surrender of Charles Fort, the onely considerable and remaining garrison of the enemies in the west, the castle of Pendennis excepted. Which articles were agreed upon between Colonell Ralph Weldon, Governour of Plimmoth for the Parliaments side, and Sir Edmund Fortescue Governor of Charles Fort, Major Peirce [sic], and Captain Hall, for the other part. With the last additionall articles sent out from the Lords of the Privy Councell, and the Governor of Oxford for the surrender of the said city, and university. This being a true copy and examined, is printed and published, according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75653</idno>
+            <idno type="STC">Wing A3834</idno>
+            <idno type="STC">Thomason E339_18</idno>
+            <idno type="STC">ESTC R200862</idno>
+            <idno type="EEBO-CITATION">99861488</idno>
+            <idno type="PROQUEST">99861488</idno>
+            <idno type="VID">159728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159728)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of agreement, for the surrender of Charles Fort, the onely considerable and remaining garrison of the enemies in the west, the castle of Pendennis excepted. Which articles were agreed upon between Colonell Ralph Weldon, Governour of Plimmoth for the Parliaments side, and Sir Edmund Fortescue Governor of Charles Fort, Major Peirce [sic], and Captain Hall, for the other part. With the last additionall articles sent out from the Lords of the Privy Councell, and the Governor of Oxford for the surrender of the said city, and university. This being a true copy and examined, is printed and published, according to order of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.P.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>4. June, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Treaties.</term>
+               <term>Oxford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159728:1" rendition="simple:additions"/>
+            <p>THE ARTICLES OF AGREEMENT, For the Surrender of <hi>Charles</hi> Fort, the onely conſiderable and remaining Garriſon of the Enemies in the Weſt, the Caſtle of <hi>Pendennis</hi> excepted.</p>
+            <p>Which Articles were agreed upon between Colonell <hi>Ralph Weldon,</hi> Governour of <hi>Plimmoth</hi> for the Par<g ref="char:EOLhyphen"/>liaments ſide, and Sir <hi>Edmund Forteſcue</hi> Go<g ref="char:EOLhyphen"/>vernor of <hi>Charles</hi> Fort, Major <hi>Peirce,</hi> and Captain <hi>Hall,</hi> for the other part.</p>
+            <p>With the laſt additionall Articles ſent out from the Lords of the Privy Councell, and the Governor of <hi>Oxford</hi> for the Surrender of the ſaid City, and Univerſity.</p>
+            <p>This being a true Copie and examined, is Printed and Pub<g ref="char:EOLhyphen"/>liſhed, according to Order of Parliament.</p>
+            <p>London, Printed by <hi>E. P.</hi> 4. June, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_surrender">
+            <pb facs="tcp:159728:2"/>
+            <pb n="1" facs="tcp:159728:2"/>
+            <head>Articles agreed on between Sir <hi>Edmund Forteſ<g ref="char:EOLhyphen"/>cue</hi> Governour of Fort Charles of the one partie, and Major <hi>Pearſe,</hi> and Captain <hi>Hall</hi> of the other partie, for the ſurrender of the ſaid Fort into the hands of Coll. <hi>Ralph Weldon</hi> Governour of Ply<g ref="char:EOLhyphen"/>moth, for the uſe of the King and Parliament; to the which Articles the ſaid Col. <hi>Weldon</hi> fully a<g ref="char:EOLhyphen"/>greed, as witneſſe his hand and ſeale to theſe pre<g ref="char:EOLhyphen"/>ſent Articles the ſeventeenth day of <hi>May,</hi> in the yeare of our Lord God, 1646. as hereafter followeth.</head>
+            <p n="1">
+               <hi>I</hi> 
+               <seg rend="decorInit">I</seg>Mprimis that Sir <hi>Edmund Forteſcue</hi> Governour, and Sir <hi>Chriſtopher Luke<g ref="char:EOLhyphen"/>nor</hi> with their ſervants, and all and every of the Officers and Souldiers within Fort Charles, ſhall have and enjoy in their, and every of their ſeverall and reſpective places capacities and degrees, full liberty in the profeſſion of the true Religion, proteſted and vowed by both Houſes of this preſent Parlia<g ref="char:EOLhyphen"/>ment in their firſt grand Proteſtation, and ſhall not at any time hereafter at any time be letted on cenſured in their or any of their places or aboads, for ſerving in the practiſe and exerciſe of the ſame: And as we utterly defie and diſclaime popery, ſo 'tis agreed that if any papiſt be found therein, to forfeit the benefit of the article.</p>
+            <p n="2">
+               <hi>II</hi> That the Governour, Mr. <hi>Iohn Snell</hi> his Captaine, and all Officers and ſouldiers belonging to the ſaid Fort, ſhall have free liberty to go their owne homes, in any place
+<pb n="2" facs="tcp:159728:3"/>or county within this Kingdom (or to paſſe beyond ſeas) and they not to be moleſted for the future, they ſubmitting themſelves to all orders and ordinances of Parliament.</p>
+            <p n="3">
+               <hi>III</hi> That the ſaid Fort may not be known or called by any other name then Fort Charles, as now it is, nor any coate of armes in the dineing roome defaced, or any thing belonging to the Fort.</p>
+            <p n="4">
+               <hi>IV</hi> That Sir <hi>Edmund Forteſcue</hi> the Governour, Sir <hi>Chriſtopher Lukenor,</hi> and Captaine <hi>Kingſtone,</hi> with their ſervants be permitted to goe to their homes, Sir <hi>Chriſtopher Lukener</hi> to Fallapit, there to remain or elſe<g ref="char:EOLhyphen"/>where within this Kingdome under the power of the Parliament for the ſpace of three moneths unmoleſted, and if they cannot make their peace with the Parliament then to have free liberty, to paſſe from any Port in this King<g ref="char:EOLhyphen"/>dome beyond the Seas.</p>
+            <p n="5">
+               <hi>V</hi> That the Governour Sir <hi>Edmund Forteſcue,</hi> his ſervants and all Officers and ſouldiers be quietly permit<g ref="char:EOLhyphen"/>ted to carry any cloaths money and other goods (which they can juſtly claime as their owne) to their houſes and enjoy them without moleſtation.</p>
+            <p n="6">
+               <hi>VI</hi> That ten horſes be provided for the Governours uſe from hence to Fallapit, and that any Officer or ſouldier have free liberty to tranſport his or any other goods by boat, or otherwiſe from hence to Kingwridge, and there to diſpoſe of them at their pleaſure.</p>
+            <p n="7">
+               <hi>VII</hi> That the Governour, Sir <hi>Chriſtopher,</hi> their ſer<g ref="char:EOLhyphen"/>vants and all Officers and ſouldiers in the Fort, have free libertie to march from hence to Fallapit, with their uſuall armes, drums beating, and colours flying, with bandeliers full of powder, and bullets proportionable, and there after 3 volleys to yeeld up their Armes to thoſe whom Col. <hi>Wel<g ref="char:EOLhyphen"/>don</hi> ſhall appoint to receive them; The Governour, Sir
+<pb n="3" facs="tcp:159728:3"/>
+               <hi>Chriſtopher Lukenor</hi> with both their ſervants and like<g ref="char:EOLhyphen"/>wiſe the Officers in Commiſſion accepted.</p>
+            <p n="8">
+               <hi>VIII</hi> That on Saturday next, the ninth of this pre<g ref="char:EOLhyphen"/>ſent <hi>May,</hi> by ten of the clock in the morning, the Governour and all Officers and ſouldiers of Fort Charles, ſhall then march out and ſurrender the ſame into the hands of Col. <hi>Weldon</hi> or whom he ſhall appoint, with all the Ordnance, Armes, Ammunition, victualls and every other thing thereto appertaining not mentioned in theſe articles with<g ref="char:EOLhyphen"/>out ſpoyling, breaking, deminiſhing or conſuming of the ſame.</p>
+            <p n="9">
+               <hi>IX</hi> That no Officer or ſouldier or any other under the command of Col. <hi>Ralph Weldon</hi> Governour of Plymoth, ſhall reproach or any way ſpoile pilpher or moleſt any of the Officers or ſouldiers of the ſaid Fort, in their march from hence to Fallapit, or elſewhere at the ſame diſtance from hence, or in their, or any of their reſpective repairings to their homes, or aboades in their or any of their perſons, Armes bag and baggage.</p>
+            <p>
+               <hi>X</hi> That during the time of the parley, vntell the time of ſurrender of the foreſaid Fort there be none paſſe in or out or tranſport any by Sea or Land, from thence without the knowledge of both parties.</p>
+            <p>
+               <hi>XI</hi> That ſufficient hoſtages be delivered on both ſides for the faithfull performance of theſe Articles.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:159728:4"/>
+            <opener>
+               <salute>Brother Iſaacc,</salute>
+            </opener>
+            <p>I Forbore tell now to writ unto you, the delivery up of the conſiderable Garriſon of <hi>Salcomb,</hi> I have ſent you a note here with the Articles, which may con<g ref="char:EOLhyphen"/>firm your beleif; that our Weſtern Habitations begin to ſmile at a future Peace, this being the only remain<g ref="char:EOLhyphen"/>ing Garriſon in theſe parts of the Enemy, ſo as I ſhall advice you to haſten down, and contract your expen<g ref="char:EOLhyphen"/>ces in your own Countrey dwelling, which I hope will ſuite with your deſires. Little newes further Weſt, but that <hi>Pendennis</hi> holds out ſtill, however are kept in from annoying the Countrey or procuring ſupplies, by the Gallentry, and watchfulneſſe of the Commanders both by Sea, and Land.</p>
+            <closer>
+               <signed>Your Affectionate Loving Bother, <hi>W. P.</hi>
+               </signed>
+               <dateline>Totnes. <date>18. May 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="articles_of_surrender">
+            <pb n="5" facs="tcp:159728:4"/>
+            <head>The laſt additionall Articles ſent forth from the Lords of the Privy Counſell. the Lord Keeper of the Great Seale, the Secretary of Eſtate, and the Governour of <hi>Oxford,</hi> for the ſurrender of the City and Univerſity of <hi>Oxford,</hi> into the hands of his Excellency Sr. <hi>Thomas Fairefax,</hi> for the Service of the Par<g ref="char:EOLhyphen"/>liament.</head>
+            <p>THat all Ladies, Gentlewomen and other women now reſident in <hi>Oxford,</hi> whoſe Husbands are abſent out of the Kingdom, ſhall have free liberty to remain in <hi>Oxon,</hi> or to go to their Husbands houſes, and there live, and en<g ref="char:EOLhyphen"/>joy a fourth part of their Husbands Eſtates, during their Husbands abſence, for the maintenance of themſelves and their Children, free from all Sequeſtrations, Seizures, Penalties, or Fines, without any Compoſition, or Moleſta-whatſoever, and without having any Oath impoſed upon them not required by Law.</p>
+            <p>That all His Majeſties Chaplaines in Ordinary, and more particularly, thoſe who are tyed to daily attendance who have been hindred by theſe troubles, from giving their due attendance in Courſe upon his Majeſty, as by Oath they are obliged, ſhall have the full benefit of theſe Arti<g ref="char:EOLhyphen"/>cles.</p>
+            <p>
+               <hi>35</hi> That in the fift Articles after thoſe words (Both of Horſe and Foot) it be added of what Nation or Countrey
+<pb n="6" facs="tcp:159728:5"/>ſoever they be, and notwithſtanding they have heretofore ſerved on the Parliaments ſide, and are ſince come over to his Majeſties ſervice) which their Servants ſhall March out, &amp;c.</p>
+            <p>
+               <hi>36</hi> That all the Officers, Souldiers of Horſe and Foot of this Garriſon, ſhall have three moneths pay truly payed them within the time limitted for free quarter.</p>
+            <p>
+               <hi>37</hi> That the <hi>28.</hi> Article may be altered and run thus, That the Commanders, Officers, and Souldiers of the <g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>niverſity, and City Regiments raiſed by his Majeſties Command, ſhall have the full benefit of theſe Articles in all things as priviledged perſons, and Citizens without ex<g ref="char:EOLhyphen"/>ception.</p>
+            <p>
+               <hi>38</hi> That no Officer, Souldier or other ſhall march out of this City within three weekes from the date of the concluſi<g ref="char:EOLhyphen"/>on of this Treaty, unleſſe his Majeſty command them in a leſſe time, and then to march out upon the former Articles</p>
+            <closer>
+               <dateline>Oxen <date>22. May, 1646.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Richard Lane, <hi>Lord Keeper of the great Seale.</hi>
+                     </item>
+                     <item>Chicheſter.</item>
+                     <item>Cottington.</item>
+                     <item>Hartford.</item>
+                     <item>Dorſet.</item>
+                     <item>Southampton.</item>
+                     <item>Seymour.</item>
+                     <item>Edward Nicholas <hi>Secre<g ref="char:EOLhyphen"/>tary of State.</hi>
+                     </item>
+                     <item>Thomas Glenham, <hi>Gover<g ref="char:EOLhyphen"/>nour of</hi> Oxford.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
